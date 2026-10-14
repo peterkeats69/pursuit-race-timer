@@ -1,0 +1,17 @@
+{
+  "name": "Pursuit Race Timer",
+  "short_name": "Pursuit Timer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1828",
+  "theme_color": "#10243a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
